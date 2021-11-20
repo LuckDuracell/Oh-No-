@@ -14,6 +14,7 @@
 		0AC0428D2747937A0059D3AE /* Oh_No_Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AC0428C2747937A0059D3AE /* Oh_No_Tests.swift */; };
 		0AC042972747937A0059D3AE /* Oh_No_UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AC042962747937A0059D3AE /* Oh_No_UITests.swift */; };
 		0AC042992747937A0059D3AE /* Oh_No_UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AC042982747937A0059D3AE /* Oh_No_UITestsLaunchTests.swift */; };
+		0AC042A627479ACC0059D3AE /* Background.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AC042A527479ACC0059D3AE /* Background.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		0AC042922747937A0059D3AE /* Oh No!UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Oh No!UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0AC042962747937A0059D3AE /* Oh_No_UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Oh_No_UITests.swift; sourceTree = "<group>"; };
 		0AC042982747937A0059D3AE /* Oh_No_UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Oh_No_UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		0AC042A527479ACC0059D3AE /* Background.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Background.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				0AC0427B274793780059D3AE /* Oh_No_App.swift */,
 				0AC0427D274793780059D3AE /* ContentView.swift */,
+				0AC042A527479ACC0059D3AE /* Background.swift */,
 				0AC0427F274793790059D3AE /* Assets.xcassets */,
 				0AC04281274793790059D3AE /* Preview Content */,
 			);
@@ -259,6 +262,7 @@
 			files = (
 				0AC0427E274793780059D3AE /* ContentView.swift in Sources */,
 				0AC0427C274793780059D3AE /* Oh_No_App.swift in Sources */,
+				0AC042A627479ACC0059D3AE /* Background.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
